@@ -1,0 +1,11 @@
+node_modules
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+# ignore all contents of artifacts folder
+# except the main json file output
